@@ -1,6 +1,8 @@
 #Author: Alexandre Borges
+#GITHUB repository : https://github.com/alexandrebsilva/permutationMimic
 #E-mail: alexandre.bsilva55@gmail.com
-
+#Used python 3
+# RUN COMMAND :   python combos.py - if Using linux, use the following command: python3 combos.py 
 #Prints all permutations of letters of a given word
 
 #REFERENCE: https://docs.python.org/2/library/itertools.html
