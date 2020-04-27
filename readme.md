@@ -2,7 +2,7 @@
 
 Permutation is a Python program to Given a word, print all permutations of all its letters
 
-## Installation
+## Configuration
 
 Use Python 3 to run the code
 
